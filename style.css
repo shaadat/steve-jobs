@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+} 
+.heading{
+    text-align: center;
+    color: whitesmoke;
+}
+h2{
+    color:whitesmoke;
+}
+.dobble{
+    text-align:center;
+    /* padding-right:200px; */
+    background-color: whitesmoke;
+}
+.dobble h2{
+    color: black;
+}
+.biography{
+    color: whitesmoke;
+    text-align: center;
+   
+
+}
+.introduction{
+    color: whitesmoke;
+    text-align: center;
+}
+.suit img{
+    height:200px;
+    width: auto;
+}
+.join{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+    
